@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <h1>Hi 👋, I'M Asep Sutrisna Suhada Putra</h1>
+    <h1>Hi 👋, I'M Muhamad Iqbal Ramadan</h1>
     <h3>A student from Bandung, Indonesia</h3>
   <h3>I Study at Bandung University of Technology</h3>
 </div>
